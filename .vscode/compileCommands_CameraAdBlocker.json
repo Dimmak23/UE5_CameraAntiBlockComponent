@@ -1,0 +1,138 @@
+[
+	{
+		"file": "D:\\CPP\\UE5_Projects\\CameraAdBlocker\\Source\\CameraAdBlocker\\AdBlockerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\CPP\\UE5_Projects\\CameraAdBlocker\\.vscode\\compileCommands_CameraAdBlocker\\CameraAdBlocker.256.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\CPP\\UE5_Projects\\CameraAdBlocker\\Source\\CameraAdBlocker\\AdBlockerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\CPP\\UE5_Projects\\CameraAdBlocker\\.vscode\\compileCommands_CameraAdBlocker\\CameraAdBlocker.256.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\CPP\\UE5_Projects\\CameraAdBlocker\\Source\\CameraAdBlocker\\CameraAdBlocker.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\CPP\\UE5_Projects\\CameraAdBlocker\\.vscode\\compileCommands_CameraAdBlocker\\CameraAdBlocker.256.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\CPP\\UE5_Projects\\CameraAdBlocker\\Source\\CameraAdBlocker\\CameraAdBlocker.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\CPP\\UE5_Projects\\CameraAdBlocker\\.vscode\\compileCommands_CameraAdBlocker\\CameraAdBlocker.256.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\CPP\\UE5_Projects\\CameraAdBlocker\\Source\\CameraAdBlocker\\CameraAdBlocker.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\CPP\\UE5_Projects\\CameraAdBlocker\\.vscode\\compileCommands_CameraAdBlocker\\CameraAdBlocker.256.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\CPP\\UE5_Projects\\CameraAdBlocker\\Source\\CameraAdBlocker\\CameraAdBlockerComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\CPP\\UE5_Projects\\CameraAdBlocker\\.vscode\\compileCommands_CameraAdBlocker\\CameraAdBlocker.256.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\CPP\\UE5_Projects\\CameraAdBlocker\\Source\\CameraAdBlocker\\CameraAdBlockerComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\CPP\\UE5_Projects\\CameraAdBlocker\\.vscode\\compileCommands_CameraAdBlocker\\CameraAdBlocker.256.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\CPP\\UE5_Projects\\CameraAdBlocker\\Source\\CameraAdBlocker\\CameraAdBlockerGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\CPP\\UE5_Projects\\CameraAdBlocker\\.vscode\\compileCommands_CameraAdBlocker\\CameraAdBlocker.256.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\CPP\\UE5_Projects\\CameraAdBlocker\\Source\\CameraAdBlocker\\CameraAdBlockerGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\CPP\\UE5_Projects\\CameraAdBlocker\\.vscode\\compileCommands_CameraAdBlocker\\CameraAdBlocker.256.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\CPP\\UE5_Projects\\CameraAdBlocker\\Source\\CameraAdBlocker\\DroidPawnBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\CPP\\UE5_Projects\\CameraAdBlocker\\.vscode\\compileCommands_CameraAdBlocker\\CameraAdBlocker.256.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\CPP\\UE5_Projects\\CameraAdBlocker\\Source\\CameraAdBlocker\\DroidPawnBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\CPP\\UE5_Projects\\CameraAdBlocker\\.vscode\\compileCommands_CameraAdBlocker\\CameraAdBlocker.256.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\CPP\\UE5_Projects\\CameraAdBlocker\\Source\\CameraAdBlocker\\PawnMovingComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\CPP\\UE5_Projects\\CameraAdBlocker\\.vscode\\compileCommands_CameraAdBlocker\\CameraAdBlocker.256.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\CPP\\UE5_Projects\\CameraAdBlocker\\Source\\CameraAdBlocker\\PawnMovingComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\CPP\\UE5_Projects\\CameraAdBlocker\\.vscode\\compileCommands_CameraAdBlocker\\CameraAdBlocker.256.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\CPP\\UE5_Projects\\CameraAdBlocker\\Source\\CameraAdBlocker\\PawnPhysics.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\CPP\\UE5_Projects\\CameraAdBlocker\\.vscode\\compileCommands_CameraAdBlocker\\CameraAdBlocker.256.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\CPP\\UE5_Projects\\CameraAdBlocker\\Source\\CameraAdBlocker\\PawnPhysics.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\CPP\\UE5_Projects\\CameraAdBlocker\\.vscode\\compileCommands_CameraAdBlocker\\CameraAdBlocker.256.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\CPP\\UE5_Projects\\CameraAdBlocker\\Source\\CameraAdBlocker\\PawnSteeringComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\CPP\\UE5_Projects\\CameraAdBlocker\\.vscode\\compileCommands_CameraAdBlocker\\CameraAdBlocker.256.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\CPP\\UE5_Projects\\CameraAdBlocker\\Source\\CameraAdBlocker\\PawnSteeringComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\CPP\\UE5_Projects\\CameraAdBlocker\\.vscode\\compileCommands_CameraAdBlocker\\CameraAdBlocker.256.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]

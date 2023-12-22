@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "CameraAdBlockerEditor Editor Win64 Development (CameraAdBlocker)",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\CPP\\UE5_Projects\\CameraAdBlocker\\.vscode\\compileCommands_CameraAdBlocker.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\CPP\\UE5_Projects\\CameraAdBlocker\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}
